@@ -16,6 +16,7 @@ const useStyles = makeStyles({
     navbar_container: {
         display: 'flex',
         justifyContent: 'space_between',
+        backgroundColor: 'red'
     },
     logo: {
         margin: '0 0 0 0.45em'
