@@ -161,7 +161,7 @@ export const Dashboard = withRouter(( props:DashProps ) => {
                     <Typography variant='h6' noWrap>
                     Dashboard
                     </Typography>
-                    <button  className={classes.toolbar_button}>Create New Drone</button>
+                    <button  className={classes.toolbar_button}>Create a New Jordan</button>
                 </Toolbar>
             </AppBar>
             <MUIDrawer
